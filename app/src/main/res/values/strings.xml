@@ -7,5 +7,5 @@
     <string name="mainActivity_ok_service">good(8%)</string>
     <string name="mainActivity_round_up_tip">do you want to round up the tips?</string>
     <string name="mainActivity_calculate">Calculate</string>
-    <string name="mainActivity_tip_amount">Tip amount</string>
+    <string name="mainActivity_tip_amount">Tip Amount: %s</string>
 </resources>
